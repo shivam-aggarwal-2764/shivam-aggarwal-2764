@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shivam Aggarwal!
 
-### `Software Developer` · `AI/ML Enthusiast` · `Data Analytics`
+###  `Data Analytics` · `Software Developer` · `AI/ML Enthusiast`
 
 <p align="center">
   <a href="https://github.com/shivam-aggarwal-2764">
@@ -24,7 +24,7 @@ I enjoy turning ideas into practical applications, building intelligent systems,
 
 - 🎓 **Currently:** M.Tech IT (Data Analytics), NIT Jalandhar
 - 💻 **Interests:** Software Engineering, AI/ML, Big Data & Data Analytics
-- 🧠 **Problem Solving:** 500+ DSA problems solved
+- 🧠 **Problem Solving:** 250+ DSA problems solved
 - 🏆 **Recognition:** Smart India Hackathon 2023 National Runner-up
 
 ---
@@ -64,7 +64,7 @@ I enjoy turning ideas into practical applications, building intelligent systems,
 
 ## 🚀 Featured Projects
 
-### 🛰️ 01. Precision Flood Inundation Forecast
+### 🛰️ 1. Precision Flood Inundation Forecast
 
 **Smart India Hackathon 2023 — National Runner-up 🥈**
 
@@ -78,7 +78,7 @@ An AI/ML-powered GIS platform designed to predict flood inundation using histori
 
 ---
 
-### 🏛️ 02. Revenue Collection & Management System
+### 🏛️ 2. Revenue Collection & Management System
 
 **Indore Municipal Corporation — Hack'ndore, 7th Position (All India)**
 
